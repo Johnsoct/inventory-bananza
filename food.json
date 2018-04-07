@@ -1,85 +1,85 @@
 {
 	"foodData": "https://www.bls.gov/regions/mid-atlantic/data/averageretailfoodandenergyprices_usandmidwest_table.htm",
-    "inventory": [
-        {
-            "title": "Whole Wheat Loaf of Bread",
-            "desc": "Crunchy on the outside, fluffy on the inside",
-            "sku": "57913298",
-            "price": 201,
-            "numSold": 920,
-            "numLeft": 210
-        },
-        {
-            "title": "USDA Choice Sirloin Steak",
-            "desc": "Organic, grass-fed beef",
-            "sku": "57913298",
-            "price": 829,
-            "numSold": 572,
-            "numLeft": 71
-        },
-        {
-            "title": "Bacon",
-            "desc": "The only kind of fat you'll love to eat",
-            "sku": "57913298",
-            "price": 533,
-            "numSold": 629,
-            "numLeft": 53
-        },
-        {
-            "title": "Fresh Whole Chicken",
-            "desc": "It may not be 'bawking,' but it's all there",
-            "sku": "57913298",
-            "price": 147,
-            "numSold": 1272,
-            "numLeft": 34
-        },
-        {
-            "title": "Fresh 2% Milk",
-            "desc": "Rich and creamy, mmmhhhhhh",
-            "sku": "57913298",
-            "price": 292,
-            "numSold": 603,
-            "numLeft": 201
-        },
-        {
-            "title": "Red Delicious Apples",
-            "desc": "Organic and free of unnatural coloring",
-            "sku": "57913298",
-            "price": 120,
-            "numSold": 1498,
-            "numLeft": 745
-        },
-        {
-            "title": "Lemons",
-            "desc": "Organic, bright yellow fruits of sweetness",
-            "sku": "57913298",
-            "price": 206,
-            "numSold": 498,
-            "numLeft": 350
-        },
-        {
-            "title": "Broccoli",
-            "desc": "Organic little trees",
-            "sku": "57913298",
-            "price": 183,
-            "numSold": 342,
-            "numLeft": 17
-        },
-        {
-            "title": "Sweet Peppers",
-            "desc": "Organic and full of color",
-            "sku": "57913298",
-            "price": 227,
-            "numSold": 278,
-            "numLeft": 64
-        },
-        {
-            "title": "Red Wine",
-            "desc": "The best wine from the Berry Farms",
-            "sku": "45758708",
-            "price": 1255,
-            "numSold": 275,
-            "numLeft": 200
-        }
-    ]
+	"inventory": [
+		{
+			"title": "Whole Wheat Loaf of Bread",
+			"desc": "Crunchy on the outside, fluffy on the inside",
+			"sku": "57913298",
+			"price": 201,
+			"numSold": 920,
+			"numLeft": 210
+		},
+		{
+			"title": "USDA Choice Sirloin Steak",
+			"desc": "Organic, grass-fed beef",
+			"sku": "57913298",
+			"price": 829,
+			"numSold": 572,
+			"numLeft": 71
+		},
+		{
+			"title": "Bacon",
+			"desc": "The only kind of fat you'll love to eat",
+			"sku": "57913298",
+			"price": 533,
+			"numSold": 629,
+			"numLeft": 53
+		},
+		{
+			"title": "Fresh Whole Chicken",
+			"desc": "It may not be 'bawking,' but it's all there",
+			"sku": "57913298",
+			"price": 147,
+			"numSold": 1272,
+			"numLeft": 34
+		},
+		{
+			"title": "Fresh 2% Milk",
+			"desc": "Rich and creamy, mmmhhhhhh",
+			"sku": "57913298",
+			"price": 292,
+			"numSold": 603,
+			"numLeft": 201
+		},
+		{
+			"title": "Red Delicious Apples",
+			"desc": "Organic and free of unnatural coloring",
+			"sku": "57913298",
+			"price": 120,
+			"numSold": 1498,
+			"numLeft": 745
+		},
+		{
+			"title": "Lemons",
+			"desc": "Organic, bright yellow fruits of sweetness",
+			"sku": "57913298",
+			"price": 206,
+			"numSold": 498,
+			"numLeft": 350
+		},
+		{
+			"title": "Broccoli",
+			"desc": "Organic little trees",
+			"sku": "57913298",
+			"price": 183,
+			"numSold": 342,
+			"numLeft": 17
+		},
+		{
+			"title": "Sweet Peppers",
+			"desc": "Organic and full of color",
+			"sku": "57913298",
+			"price": 227,
+			"numSold": 278,
+			"numLeft": 64
+		},
+		{
+			"title": "Red Wine",
+			"desc": "The best wine from the Berry Farms",
+			"sku": "45758708",
+			"price": 1255,
+			"numSold": 275,
+			"numLeft": 200
+		}
+	]
 }
