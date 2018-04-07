@@ -3,16 +3,16 @@
         {
             "title": "Coca-cola",
             "desc": "A tasty, carbonated beverage",
-            "sku": 57913298,
-            "price": 1.99,
+            "sku": "57913298",
+            "price": 199,
             "numSold": 94157,
             "numLeft": 4820
         },
         {
             "title": "Captain Crunch",
             "desc": "A corn and oat breakfast cereal",
-            "sku": 45758708,
-            "price": 3.99,
+            "sku": "45758708",
+            "price": 399,
             "numSold": 74553,
             "numLeft": 3993
         }
